@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-     <h1>chai or code</h1>
+     <h1>count</h1>
     </>
   )
 }
