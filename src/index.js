@@ -1,8 +1,8 @@
 // let a = "Hello World";
 // console.log(a);
 
-const arr = [ 2, 3, 4, 5];
+const arr = ["tanveer","ahmed","khan"];
 
-arr.unshift(1);
+arr.push("zainab");
 console.log(arr);
 
