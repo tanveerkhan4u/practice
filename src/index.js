@@ -39,7 +39,10 @@
 
 // yani ki maine function ko as a proper function likja hai tbbhi hositing work krega vrna function ko expression function likha hai to hositing work nhi krega ya arrow function likha hai to hositing work nhi krega
 
+// bilkul ache se pdna hai hoisting
 
+var a = 5;
+console.log(a);
 
 
 

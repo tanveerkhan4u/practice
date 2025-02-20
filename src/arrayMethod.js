@@ -35,6 +35,19 @@
 //     console.log(joinMethod);
 
 // Slice Method
-// slice mtlb tukda krna part krna means it is used to extract a part of array and return a new array without modifying the original array 
+// slice mtlb tukda krna part krna means it is used to extract a part of array and return a new array without modifying the original array. yani ki isme hmm index dete hai starting kha se or end kha tk chahiye ahr hmm index na de to puri ki puri array return kr dega aur new array dega aur purani array me change nii krega aur main point jha se extract krenge to starting index include hoga or end index exclude nhi hoga
 
-const arr1 = [1, 2, 3, 4, 5, 6, 7, 8, 9];
+// const arr1 = [1, 2, 3, 4, 5, 6, 7, 8, 9];
+
+// const sliceArr = arr1.slice(1);
+// console.log(sliceArr);
+
+
+// const arr1 = [100, 200, 300, 400, 500, 600, 700, 800, 900];
+
+// const sliceMethod = arr1.slice(0,6);
+// console.log(sliceMethod);
+
+// indexOf method
+
+// 
