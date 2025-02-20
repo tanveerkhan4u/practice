@@ -1,10 +1,11 @@
-function main(){
-    const name = 'tanveer';
+// function main(){
+//     const name = 'tanveer';
 
-    function sayMyName(){
-        console.log(name);
+//     function sayMyName(){
+//         console.log(name);
         
-    }
-    sayMyName();
-}
-main();
+//     }
+//     sayMyName();
+// }
+// main();
+

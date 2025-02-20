@@ -52,12 +52,14 @@
 // function ke declaration ke saath puri body hoisted hoti hai yani puri code me jha function banaya ho before or after function ko call kiya ho wo hoisting work krega access kr paiga
 
 
-Hello()
+// 
+// greek()
 
-function Hello(){
-    console.log("Hello ");
-}
+//  function greek (){
+//     console.log("hello greek");
+//  }
 
+ 
 
 
 
