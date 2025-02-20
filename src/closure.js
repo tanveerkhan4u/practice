@@ -13,17 +13,38 @@
 
 
 
+// function outer(){
+//     let a = 5
+
+//     function inner(){
+//         function inner2(){
+//             console.log(a)
+
+//         }
+//         inner2()
+//     }
+//     return inner
+// }
+
+// const result = outer()
+// result()
+
+
+
 function outer(){
-    let a = 5
+let a=5;
 
-    function inner(){
-        function inner2(){
-            console.log(a)
+function inner(){
 
-        }
-        inner2()
+    function inner3(){
+
+        console.log(5)
     }
-    return inner
+    inner3()
+
+}
+return inner
+
 }
 
 const result = outer()
