@@ -49,6 +49,14 @@
 // HOISTING ME VAR USE HOTA HAI BUT KET AND COONST BHI HOST HAI BUT WO TOP SCOPE SE ACTUAL INITIALIZATION TAK WO TEMPORAL DAED ZONE ME REHTA HAI TO ACCESS NI HOTA HAI
 
 // function hositing
+// function ke declaration ke saath puri body hoisted hoti hai yani puri code me jha function banaya ho before or after function ko call kiya ho wo hoisting work krega access kr paiga
+
+
+Hello()
+
+function Hello(){
+    console.log("Hello ");
+}
 
 
 
