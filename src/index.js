@@ -41,8 +41,14 @@
 
 // bilkul ache se pdna hai hoisting
 
-var a = 5;
-console.log(a);
+// var a;
+// console.log(a);
+// var a = 5;
+// console.log(a);
+
+
+
+
 
 
 
