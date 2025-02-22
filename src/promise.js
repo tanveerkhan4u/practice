@@ -19,3 +19,4 @@ console.log('random number is', result)
 .catch((error) => {
 console.log(error)
 })
+
