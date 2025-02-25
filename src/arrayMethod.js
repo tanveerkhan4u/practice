@@ -69,7 +69,7 @@
 // toString method
 // array ko string me convert krta hai aur new string array me return krta hai
 
-const arr = [1, 2, 3, 4, 5, 6, 7, 8, 9];
+const array = ["tanveer", "ahmed", "khan", "how", "are", "you", "baby"];
 
-const string = arr.toString();
+const string = array.toString();
 console.log(string);
