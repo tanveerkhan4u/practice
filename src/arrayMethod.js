@@ -52,8 +52,24 @@
 
 // push method 
 
-const arr = [1, 2, 3, 4, 5, 6, 7, 8, 9];
-// push method 
+// const arr = [1, 2, 3, 4, 5, 6, 7, 8, 9];
+// push method me array ke element kuch bhi add krna mtlb insert krta hai chahe wo number ho ya string
  
-arr.push(11)
-console.log(arr);
+// arr.push(11)
+// console.log(arr);
+
+// pop method
+
+// const arr = [1, 2, 3, 4, 5, 6, 7, 8, 9];
+// pop method me array ke last element ko remove krta hai
+
+// arr.pop()
+// console.log(arr);
+
+// toString method
+// array ko string me convert krta hai aur new string array me return krta hai
+
+const arr = [1, 2, 3, 4, 5, 6, 7, 8, 9];
+
+const string = arr.toString();
+console.log(string);
