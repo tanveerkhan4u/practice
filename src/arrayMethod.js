@@ -69,7 +69,11 @@
 // toString method
 // array ko string me convert krta hai aur new string array me return krta hai
 
-const array = ["tanveer", "ahmed", "khan", "how", "are", "you", "baby"];
+// const array = ["tanveer", "ahmed", "khan", "how", "are", "you", "baby"];
 
-const string = array.toString();
-console.log(string);
+// const string = array.toString();
+// console.log(string);
+
+//  join methiod ke question
+
+const arr1 = ["tanveer", "ahmed", "khan", "how", "are", "you", "baby"];
