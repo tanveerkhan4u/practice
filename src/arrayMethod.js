@@ -76,4 +76,6 @@
 
 //  join methiod ke question
 
-const arr1 = ["tanveer", "ahmed", "khan", "how", "are", "you", "baby"];
+const arr1 = ["tanveer", "pathan", "khan", "how", "are", "you", "baby"];
+const join = arr1.join("  ");
+console.log(join);
