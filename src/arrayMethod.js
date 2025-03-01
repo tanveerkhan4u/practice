@@ -76,6 +76,12 @@
 
 //  join methiod ke question
 
-const arr1 = ["tanveer", "pathan", "khan", "how", "are", "you", "baby"];
-const join = arr1.join("  ");
-console.log(join);
+// const arr1 = ["tanveer", "pathan", "khan", "how", "are", "you", "baby"];
+// const join = arr1.join("  ");
+// console.log(join);
+
+
+const array1 = ["broclii", "cabbage", "cauliflower", "spinach"];
+
+const aa = array1.join(" + ");
+console.log(aa);
