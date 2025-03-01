@@ -52,6 +52,14 @@
 // Slice Method
 // slice mtlb tukda krna part krna means it is used to extract a part of array and return a new array without modifying the original array. yani ki isme hmm index dete hai starting kha se or end kha tk chahiye ahr hmm index na de to puri ki puri array return kr dega aur new array dega aur purani array me change nii krega aur main point jha se extract krenge to starting index include hoga or end index exclude nhi hoga
 
+// simple mtlb array ke portion ko extract krna slice method se
+
+const a = [1, 2, 3, 4, 5, 6, 7, 8, 9];
+const b = a.slice(1,6);
+console.log(b);
+
+
+
 // const arr1 = [1, 2, 3, 4, 5, 6, 7, 8, 9];
 
 // const sliceArr = arr1.slice(1);
