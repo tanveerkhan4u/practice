@@ -54,9 +54,9 @@
 
 // simple mtlb array ke portion ko extract krna slice method se
 
-const a = [1, 2, 3, 4, 5, 6, 7, 8, 9];
-const b = a.slice(1,6);
-console.log(b);
+// const a = [1, 2, 3, 4, 5, 6, 7, 8, 9];
+// const b = a.slice(1,5);
+// console.log(b);
 
 
 
@@ -71,7 +71,7 @@ console.log(b);
 // const sliceMethod = arr1.slice(0,6);
 // console.log(sliceMethod);
 
-// indexOf method
+
 
 // push method 
 
@@ -129,5 +129,12 @@ console.log(b);
 
 // const a = [1, 2, 3, 4, 5, 6, 7, 8, 9];
 // const b = a.reverse();
+// console.log(b);
+
+// splice method
+// splice method  me array ke lement ko remove krna chahte ho ya replace krna chhate hai dusre element se to splice method use krte hai
+
+// const a= [1, 2, 3, 4, 5, 6, 7, 8, 9];
+// const b = a.splice(1,4,'a','b','c');
 // console.log(b);
 
