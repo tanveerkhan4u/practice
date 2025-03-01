@@ -81,7 +81,18 @@
 // console.log(join);
 
 
-const array1 = ["broclii", "cabbage", "cauliflower", "spinach"];
+// const array1 = ["broclii", "cabbage", "cauliflower", "spinach"];
 
-const aa = array1.join(" + ");
-console.log(aa);
+// const aa = array1.join(" + ");
+// console.log(aa);
+
+
+// unshift method
+
+// push method me kya hita tha ki array ko add krta tha array ke element ko last me add krta tha but unsift method me array ke element ko first me add krta hai
+
+// const arr1 = [1, 2, 3, 4, 5, 6, 7, 8, 9];
+
+// const shift1 = arr1.unshift(100);
+// console.log(arr1);
+
