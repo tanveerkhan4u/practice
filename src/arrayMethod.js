@@ -1,5 +1,13 @@
 // concat method mean concatination
-// ye use hota hai jab dono array ko combine krke new array bnana ho aur array me value add krni ho vo bhi ho sakta hai
+// ye use hota hai jab dono array ko combine krke new array bnana ho aur array me value add krni ho vo bhi ho sakta hai jo already exist array hota hai usko merge krta hai
+
+const arr1 = [1, 2, 3, 4, 5];
+const arr3 = [6, 7, 8, 9, 10];
+const arr2 = ["tanveer", "ahmed", "khan"];
+
+const array = arr2.concat(arr1 + arr3);
+console.log(array);
+
 
 // const arr1 = [1, 2, 3, 4, 5];
 // const arr2 = ["a", "b", "c", "d", "e"];
@@ -96,3 +104,6 @@
 // const shift1 = arr1.unshift(100);
 // console.log(arr1);
 
+// const arr1 = ["tanveer", "ahmed", "khan", "how", "are", "you"];
+
+// console.log(arr1.length);
