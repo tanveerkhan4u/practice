@@ -115,3 +115,11 @@
 
 // console.log(arr1.length);
 
+// reverse method() 
+// ye array ke element ko reverse kr deta hai 
+
+
+// const a = [1, 2, 3, 4, 5, 6, 7, 8, 9];
+// const b = a.reverse();
+// console.log(b);
+
